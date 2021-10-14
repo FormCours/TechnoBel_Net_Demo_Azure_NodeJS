@@ -1,0 +1,24 @@
+{
+  "name": "demo-webapi-azure",
+  "version": "1.0.0",
+  "description": "Web API simple pour Azure :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormCours/TechnoBel_Net_Demo_Azure_NodeJS.git"
+  },
+  "author": "Aurelien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FormCours/TechnoBel_Net_Demo_Azure_NodeJS/issues"
+  },
+  "homepage": "https://github.com/FormCours/TechnoBel_Net_Demo_Azure_NodeJS#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
